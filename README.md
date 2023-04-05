@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 📫 How to reach me: ...  
-  
-![<Badge Name>](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
+
+
+
 
 <!--
 **kuzantiv/kuzantiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
