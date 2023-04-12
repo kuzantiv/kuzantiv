@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<p dir="auto"><a href="https://t.me/kuzantiv" rel="nofollow"><img src="telegram.svg" style="max-width: 100%;"></a>
+Contacts:  
+<hr>
+<a href="https://t.me/kuzantiv" rel="nofollow"><img src="telegram.svg" style="max-width: 100%;"></a>
 
 
 
